@@ -120,7 +120,7 @@ function main() {
   apt-get update
   install_build_tools()
   install_utilities()
-  install version_control_tools()
+  install_version_control_tools()
   install_text_editors()
   install_programming_languages()
   install_databases()
